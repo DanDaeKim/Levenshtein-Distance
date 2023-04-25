@@ -23,3 +23,5 @@ s1 = "kitten"
 s2 = "sitting"
 distance = levenshtein_distance(s1, s2)
 print(f"The Levenshtein distance between '{s1}' and '{s2}' is {distance}")
+
+# Interesting application in linear algebra
